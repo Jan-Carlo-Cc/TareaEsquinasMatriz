@@ -1,0 +1,7 @@
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\bin\Debug\TareaMatriz.exe.config
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\bin\Debug\TareaMatriz.exe
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\bin\Debug\TareaMatriz.pdb
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\obj\Debug\TareaMatriz.csproj.AssemblyReference.cache
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\obj\Debug\TareaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\obj\Debug\TareaMatriz.exe
+C:\Users\theja\OneDrive\Documentos\Universidad\Estructuras de Datos\Semana3\TareaMatriz\TareaMatriz\obj\Debug\TareaMatriz.pdb
